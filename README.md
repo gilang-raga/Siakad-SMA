@@ -39,3 +39,5 @@ Sistem Informasi Akademik (SIAKAD) berbasis web yang dirancang untuk membantu pe
 npm install
 npm run dev
 ```
+
+## Tampilan Website
